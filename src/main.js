@@ -39,12 +39,6 @@ document.querySelector('#app').innerHTML = `
     <footer style="margin-top: 6rem; border-top: 1px solid #333; padding-top: 2rem; color: #666;">
       <p>&copy; 2026 InsightAI Solutions. All rights reserved.</p>
     </footer>
-    
-    <script
-async
-defer
-src="http://178.140.2.197:1443/chat/api/embed?protocol=http&host=178.140.2.197:1443&token=18393fc741a861cb">
-</script>
 
   </div>
 `
