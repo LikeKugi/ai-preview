@@ -39,4 +39,3 @@
     </footer>
   </div>
 `;document.querySelector("#primary-cta").addEventListener("click",()=>{alert("Welcome to the future of AI! Redirecting to signup...")});
-//# sourceMappingURL=index-DXV03-Fp.js.map
